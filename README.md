@@ -37,4 +37,4 @@ The release provided here is scanned before it's published.
 ## How to use it
 1. Download the release package from the link above.
 2. Extract the archive contents to your desired installation path.
-3. Launch the main executable file or follow the setup guide.  
+3. Launch the main executable file or follow the setup guide.   
